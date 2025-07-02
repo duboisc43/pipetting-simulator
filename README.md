@@ -23,8 +23,9 @@ Launch a web-based app with sliders for:
 - Transfer volume
 - Color map selection
 
+
 📍 **Try it live:**  
-*Coming soon: [https://your-streamlit-link.streamlit.app](https://your-streamlit-link.streamlit.app)*
+[https://pipetting-simulator-gxeqmdutemkxqsuxijttcu.streamlit.app/](https://pipetting-simulator-gxeqmdutemkxqsuxijttcu.streamlit.app/)
 
 ### Run Locally
 
